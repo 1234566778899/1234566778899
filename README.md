@@ -55,7 +55,7 @@ Soy un **Full-Stack Developer** apasionado por la tecnología con experiencia en
 
 ### Mira cómo el snake devora mis contribuciones diarias:
 
-![github-contribution-grid-snake](https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/mrh-2003/mrh-2003/output/github-contribution-grid-snake.svg" alt="github-contribution-grid-snake">
 
 </div>
 
