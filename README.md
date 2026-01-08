@@ -56,9 +56,9 @@ Soy un **Full-Stack Developer** apasionado por la tecnología con experiencia en
 ### Mira cómo el snake devora mis contribuciones diarias:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/123456778899/123456778899/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/123456778899/123456778899/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/123456778899/123456778899/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
 </picture>
 
 </div>
@@ -70,16 +70,16 @@ Soy un **Full-Stack Developer** apasionado por la tecnología con experiencia en
 ## 🎯 Proyectos Destacados
 
 ### 📱 Pong Game
-Juego interactivo desarrollado con React. [Ver Repositorio](https://github.com/123456778899/Pong.Game1)
+Juego interactivo desarrollado con React. [Ver Repositorio](https://github.com/1234566778899/Pong.Game1)
 
 ### 📐 Calculadora
-Aplicación de calculadora web con interfaz amigable. [Ver Repositorio](https://github.com/123456778899/calculador)
+Aplicación de calculadora web con interfaz amigable. [Ver Repositorio](https://github.com/1234566778899/calculador)
 
 ### 🧮 calcMath
-Herramientas matemáticas avanzadas en JavaScript. [Ver Repositorio](https://github.com/123456778899/calcMath)
+Herramientas matemáticas avanzadas en JavaScript. [Ver Repositorio](https://github.com/1234566778899/calcMath)
 
 ### 🎨 gifExpertaApp
-Aplicación para buscar y explorar GIFs. [Ver Repositorio](https://github.com/123456778899/gifExpertaApp)
+Aplicación para buscar y explorar GIFs. [Ver Repositorio](https://github.com/1234566778899/gifExpertaApp)
 
 ---
 
@@ -105,7 +105,7 @@ Aplicación para buscar y explorar GIFs. [Ver Repositorio](https://github.com/12
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge)](https://carlosordaz.vercelaapp/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/carlos-ordaz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123456778899)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/1234566778899)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ordashoyos2001@gmail.com)
 
 ---
