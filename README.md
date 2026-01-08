@@ -49,9 +49,21 @@ Soy un **Full-Stack Developer** apasionado por la tecnología con experiencia en
 
 ---
 
-## 📊 Mis Contribuciones (Snake Edition)
+## 📊 Mis Contribuciones (Snake Edition) 🐍
 
-![snake gif](https://github.com/123456778899/123456778899/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+
+### Mira cómo el snake devora mis contribuciones diarias:
+
+![github contribution grid snake animation](https://github.com/123456778899/123456778899/blob/output/github-contribution-grid-snake.svg)
+
+**Versión Dark Mode:**
+
+![github contribution grid snake animation dark](https://github.com/123456778899/123456778899/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+> Este snake se alimenta de tus contribuciones en GitHub. ¡Cada commit es un bocado delicioso! 🎮
 
 ---
 
