@@ -55,11 +55,7 @@ Soy un **Full-Stack Developer** apasionado por la tecnología con experiencia en
 
 ### Mira cómo el snake devora mis contribuciones diarias:
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake.svg">
-  <img alt="github-snake" src="https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake.svg" style="max-width: 100%; height: auto;">
-</picture>
+![github-contribution-grid-snake](https://raw.githubusercontent.com/1234566778899/1234566778899/output/github-contribution-grid-snake.svg)
 
 </div>
 
